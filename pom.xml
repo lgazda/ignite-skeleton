@@ -17,7 +17,6 @@
     </properties>
 
     <modules>
-        <module>ignite-boot-skeleton</module>
         <module>ignite-client</module>
         <module>ignite-server</module>
     </modules>

@@ -14,6 +14,6 @@
 		<groupId>pl.net.gazda</groupId>
 		<artifactId>ignite-boot-skeleton</artifactId>
 		<version>1.0-SNAPSHOT</version>
-        <relativePath>../ignite-boot-skeleton/pom.xml</relativePath>
+        <relativePath>../spring-boot-pom.xml</relativePath>
 	</parent>
 </project>
